@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\MyProjects\Code\C++\Breakout\main.cpp(45,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\MyProjects\Code\C++\Breakout\main.cpp(46,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\MyProjects\Code\C++\Breakout\main.cpp(144,53): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+D:\MyProjects\Code\C++\Breakout\main.cpp(147,53): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  Breakout.vcxproj -> D:\MyProjects\Code\C++\Breakout\x64\Debug\Breakout.exe
