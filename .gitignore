@@ -3,8 +3,11 @@ UE/
 
 # Build output
 build/
-Release/
 x64/
+
+# Release folder: ignore everything except the zipped game
+Release/*
+!Release/Release.zip
 Debug/
 
 # Visual Studio cache and per-user settings
