@@ -1,0 +1,22 @@
+# Unreal Engine project
+UE/
+
+# Build output
+build/
+Release/
+x64/
+Debug/
+
+# Visual Studio cache and per-user settings
+.vs/
+*.user
+
+# Compiler / linker leftovers
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.ipch
+*.tlog
+*.log
+*.recipe
